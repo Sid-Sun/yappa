@@ -1,0 +1,13 @@
+Package: nginx-auto-config
+Version: 1.1
+Architecture: amd64
+Essential: no
+Maintainer: Sid Sun <sid@sidsun.com>
+Filename: ./nginx-auto-config_1.1_amd64.deb
+Size: 983860
+MD5sum: 9d8ddd931ce60afe0a72249d14bbd7e3
+SHA1: 9c2319a7105eed5365c409823297128d5cecdeb4
+SHA256: 2b2d9ac4239e1019f7c0f46dcf37ca8a45b70817a1a1823e6f835c66e788fe83
+Priority: optional
+Description: An interactive program to Automate nginx virtual server creation.
+
