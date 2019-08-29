@@ -11,3 +11,29 @@ SHA256: 2b2d9ac4239e1019f7c0f46dcf37ca8a45b70817a1a1823e6f835c66e788fe83
 Priority: optional
 Description: An interactive program to Automate nginx virtual server creation.
 
+Package: nginx-auto-config
+Version: 2.0
+Architecture: amd64
+Essential: no
+Maintainer: Sid Sun <sid@sidsun.com>
+Filename: ./nginx-auto-config_2.0_amd64.deb
+Size: 1041896
+MD5sum: dd3d4572013e32d497e6195bf0449746
+SHA1: 6ba558869f870da16f766d3928ef6d0cd2a99035
+SHA256: 2c36015257a5dfa8f1ca9c568c3991c12ff6919147fdd7ec0d59002cc48b2f51
+Priority: optional
+Description: An interactive program to Automate nginx virtual server creation.
+
+Package: nginx-auto-config
+Version: 2.1
+Architecture: amd64
+Essential: no
+Maintainer: Sid Sun <sid@sidsun.com>
+Filename: ./nginx-auto-config_2.1_amd64.deb
+Size: 1042368
+MD5sum: 7b4312ddfdad3c07c500d40e5caed4eb
+SHA1: 93f497d772a530ad73449da140b699c5f5c61f86
+SHA256: ccf34df38343e5f90bdf7c000f263b4ea2a48b320af9befd765ba93d69e3b473
+Priority: optional
+Description: An interactive program to Automate nginx virtual server creation.
+
