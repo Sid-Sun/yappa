@@ -50,3 +50,16 @@ SHA256: 1f3d2e181737fe56835161fb9fb82113859ce298a54c4369e08fe256b1d11319
 Priority: optional
 Description: An interactive program to Automate nginx virtual server creation.
 
+Package: systemd-auto-config
+Version: 1.0
+Architecture: amd64
+Essential: no
+Maintainer: Sid Sun <sid@sidsun.com>
+Filename: ./systemd-auto-config.deb
+Size: 1032236
+MD5sum: 6c81da71ddf19b2486b789942a7febbe
+SHA1: a38c8d34ff8e09ac9f308ff395730b845a725c74
+SHA256: 58eddb4540fa09a91b036ca110791e5564873e39965a34fc66a033803161022b
+Priority: optional
+Description: An interactive program to interactively create config for systemd services.
+
