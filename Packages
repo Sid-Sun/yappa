@@ -67,10 +67,10 @@ Version: 3.0
 Architecture: amd64
 Maintainer: Sid Sun <sid@sidsun.com>
 Filename: ./nginx-auto-config_3.0_amd64.deb
-Size: 1078676
-MD5sum: 9a4b2491e1a3eb1d32466b3ce6720dcf
-SHA1: 3781407a14eff857bbaff6b8f1ef511f7462dd82
-SHA256: 52aff02158096c1af641dc0d5c337b2b10a65e6fd6a90bbb526db3a0b41b1088
+Size: 1078836
+MD5sum: 9a7f34dc130decfaa7a72f037a10114c
+SHA1: 8de84284dcb04a258e51cbd30fd8fdfda34c95b8
+SHA256: 349b9a7d3fe8d3a03d07042bdbbb4b6c522251cc7c3e213d0c5f65dd6fd9c9d4
 Homepage: https://github.com/sid-sun/nginx-auto-config
 Description: A program to create configurations for nginx interactively.
 
