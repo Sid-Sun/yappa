@@ -86,6 +86,18 @@ SHA256: 53239eb2a0956969a56f3a83cc1a5150d9d333539a0f22f1051ecba5faad57fd
 Homepage: https://github.com/sid-sun/nginx-auto-config
 Description: A program to create configurations for nginx interactively.
 
+Package: nginx-auto-config
+Version: 4.0
+Architecture: amd64
+Maintainer: Sid Sun <sid@sidsun.com>
+Filename: ./nginx-auto-config_4.0_amd64.deb
+Size: 1085296
+MD5sum: c07c1f7b6e946b8f26a2b133f0a35fff
+SHA1: 7bf5c08a324937b1fbbb4a970cdc2a7200fb10ee
+SHA256: 8c395aa9e5d6c3d8b6eda24a6042ca0e15d632204aa3afa67831162d7199c090
+Homepage: https://github.com/sid-sun/nginx-auto-config
+Description: A program to create configurations for nginx interactively.
+
 Package: systemd-auto-config
 Version: 1.0
 Architecture: amd64
