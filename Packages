@@ -54,11 +54,11 @@ Package: nginx-auto-config
 Version: 3.0
 Architecture: amd64
 Maintainer: Sid Sun <sid@sidsun.com>
-Filename: ./nginx-auto-config_3.0_amd64.deb
-Size: 1078836
-MD5sum: 9a7f34dc130decfaa7a72f037a10114c
-SHA1: 8de84284dcb04a258e51cbd30fd8fdfda34c95b8
-SHA256: 349b9a7d3fe8d3a03d07042bdbbb4b6c522251cc7c3e213d0c5f65dd6fd9c9d4
+Filename: ./nginx-auto-config_.deb
+Size: 1079028
+MD5sum: 42a725e1addfb22ccf966478edb64332
+SHA1: 06835228291060ce6913d50e65859f67ca7ddfbf
+SHA256: 29afe98446f8147de83a69d99c08e2b617e969ecacec9a675eb2c4fc2803bb06
 Homepage: https://github.com/sid-sun/nginx-auto-config
 Description: A program to create configurations for nginx interactively.
 
@@ -66,11 +66,11 @@ Package: nginx-auto-config
 Version: 3.0
 Architecture: amd64
 Maintainer: Sid Sun <sid@sidsun.com>
-Filename: ./nginx-auto-config_.deb
-Size: 1079028
-MD5sum: 42a725e1addfb22ccf966478edb64332
-SHA1: 06835228291060ce6913d50e65859f67ca7ddfbf
-SHA256: 29afe98446f8147de83a69d99c08e2b617e969ecacec9a675eb2c4fc2803bb06
+Filename: ./nginx-auto-config_3.0_amd64.deb
+Size: 1078836
+MD5sum: 9a7f34dc130decfaa7a72f037a10114c
+SHA1: 8de84284dcb04a258e51cbd30fd8fdfda34c95b8
+SHA256: 349b9a7d3fe8d3a03d07042bdbbb4b6c522251cc7c3e213d0c5f65dd6fd9c9d4
 Homepage: https://github.com/sid-sun/nginx-auto-config
 Description: A program to create configurations for nginx interactively.
 
@@ -167,6 +167,18 @@ Size: 1105716
 MD5sum: 2a352096637c13083b2451a02a2a38b5
 SHA1: b9c0c6dfe314ce6a47764b71ded283e1fc6f5b28
 SHA256: 1cb730f728e43402d72ad539e99e8d8fcb5e261c2f8e7dd4c532e3eeb7aa27d6
+Homepage: https://github.com/sid-sun/nginx-auto-config
+Description: A program to create configurations for nginx interactively.
+
+Package: nginx-auto-config
+Version: 6.1.0
+Architecture: amd64
+Maintainer: Sid Sun <sid@sidsun.com>
+Filename: ./nginx-auto-config_6.1.0_amd64.deb
+Size: 1595004
+MD5sum: c021c9327aa06b5c810b445ee6881c28
+SHA1: 45ec6720a776c2c454f31822ceba727fe7aa4b96
+SHA256: 9fae3264e3751cd160081872d1ebafded2d79defe09166cfb49eca3e890eee73
 Homepage: https://github.com/sid-sun/nginx-auto-config
 Description: A program to create configurations for nginx interactively.
 
