@@ -194,6 +194,18 @@ SHA256: 1298d75eef9d739cf0f873517b797336f71a7936fb7245ae59c355f8cf0867b4
 Homepage: https://github.com/sid-sun/seal-256-cfb
 Description: A CLI program which implements the SeaLion Block Cipher.
 
+Package: seat-256-cfb
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Sid Sun <sid@sidsun.com>
+Filename: ./seat-256-cfb_1.0.0_amd64.deb
+Size: 1984340
+MD5sum: 0ec5022c6f78f5c5f7fc79b4004e1b0c
+SHA1: c16664e4230fd80779dc3a3bfb8069fdda6c409a
+SHA256: 12b6fa896457972754f1f49ea51f2e9300d5f254848fe4d8f4e7ed97aceaf7cd
+Homepage: https://github.com/sid-sun/seat-256-cfb
+Description: A CLI program which implements the SeaTurtle Block Cipher.
+
 Package: systemd-auto-config
 Version: 1.0
 Architecture: amd64
