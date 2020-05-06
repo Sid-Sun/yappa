@@ -182,6 +182,18 @@ SHA256: 9fae3264e3751cd160081872d1ebafded2d79defe09166cfb49eca3e890eee73
 Homepage: https://github.com/sid-sun/nginx-auto-config
 Description: A program to create configurations for nginx interactively.
 
+Package: seal-256-cfb
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Sid Sun <sid@sidsun.com>
+Filename: ./seal-256-cfb_1.0.0_amd64.deb
+Size: 1983236
+MD5sum: c579bbd4c747d672fc7ced1849770c30
+SHA1: c0cce9b18579865f58bbbe9f78ce3514564a603c
+SHA256: 1298d75eef9d739cf0f873517b797336f71a7936fb7245ae59c355f8cf0867b4
+Homepage: https://github.com/sid-sun/seal-256-cfb
+Description: A CLI program which implements the SeaLion Block Cipher.
+
 Package: systemd-auto-config
 Version: 1.0
 Architecture: amd64
