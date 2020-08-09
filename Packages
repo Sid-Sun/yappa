@@ -199,10 +199,10 @@ Version: 2.0.0
 Architecture: amd64
 Maintainer: Sid Sun <sid@sidsun.com>
 Filename: ./seal-256-cfb_2.0.0_amd64.deb
-Size: 2654168
-MD5sum: 87bd75ae18e1d8045cc54d1124c76b9b
-SHA1: ccd87d1fd1a4b1c42e9e5c9a077417d38724c033
-SHA256: b7293b807f29c3e3ac7668a4cc35b7f99ed9d746786560fbd37dd583356a9332
+Size: 2653924
+MD5sum: 0e490ecbd65d705f3fda0607318b037c
+SHA1: c8776c892e5e4c5ef75539006d3c7d9932482a5d
+SHA256: 112534da6ab127a57d00d905dca116ec55b55fb5cfb1b89b88a66cacb3765d54
 Homepage: https://github.com/sid-sun/seal-256-cfb
 Description: A CLI program which implements the SeaLion Block Cipher.
 
